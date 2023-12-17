@@ -1,2 +1,2 @@
 # zhimulin
-Vocab list of Zhimulin Rma language
+Zhimulin Rma language lexicon
